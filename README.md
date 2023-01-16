@@ -16,9 +16,7 @@ The project is divided into 3 parts:
 -> Create a UI and combine the pickle file with the UI
 
 
-![what-is-phishing-in-cyber-security-scaled](https://user-images.githubusercontent.com/82018631/212736607-19dcc903-8e41-44fc-8003-eca7e1dc3b24.jpg)
-
-
+![what-is-phishing-in-cyber-security-scaled](https://user-images.githubusercontent.com/82018631/212736828-ba3c8d64-59ea-4a49-aa8d-4026bf422070.jpg)
 
 #About the model
 
