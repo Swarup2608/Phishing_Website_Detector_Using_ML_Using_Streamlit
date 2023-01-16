@@ -15,7 +15,9 @@ The project is divided into 3 parts:
 -> Get a pickle file from the machine leanring model <br \>
 -> Create a UI and combine the pickle file with the UI
 
-![what-is-phishing-in-cyber-security-scaled](https://user-images.githubusercontent.com/82018631/212736500-cdff43d5-7b84-4bbc-aaec-a06a38d257a3.jpg)
+
+![what-is-phishing-in-cyber-security-scaled](https://user-images.githubusercontent.com/82018631/212736607-19dcc903-8e41-44fc-8003-eca7e1dc3b24.jpg)
+
 
 
 #About the model
