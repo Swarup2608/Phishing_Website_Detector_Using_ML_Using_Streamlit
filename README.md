@@ -16,8 +16,6 @@ The project is divided into 3 parts:
 -> Create a UI and combine the pickle file with the UI
 
 
-![what-is-phishing-in-cyber-security-scaled](https://user-images.githubusercontent.com/82018631/212736828-ba3c8d64-59ea-4a49-aa8d-4026bf422070.jpg)
-
 #About the model
 
 So we start off with building machine learning model - we use a RandomForest Classifier model and train that model using phishing site datapoints There is abundant information - meta data of the sites which helps in recognizing the phishing sites In this particular project we will learn how to select features that we can use to train the model
